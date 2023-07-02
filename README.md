@@ -11,7 +11,8 @@ This is a collection of historical data on the statistics of a real estate compa
 
 the affairs dataset contains detailed information about employees, including their affairs, gender, age, years married	children, religiousness, education, occupation and rating.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+| Unnamed: 0 | affairs | gender | age | yearsmarried | children | religiousness | education | occupation | rating |
+|------------|---------|--------|-----|--------------|----------|---------------|-----------|------------|--------|
+|     0      |    4    |  male  | 37  |     10.00    |    no    |       3       |     18    |     7      |   4    |
+|     1      |    5    | female | 27  |     4.00     |    no    |       4       |     14    |     6      |   4    |
+|     2      |   11    | female | 32  |     15.00    |   yes    |       1       |     12    |     1      |   4    |
