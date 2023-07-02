@@ -44,30 +44,30 @@ the affairs dataset contains detailed information about employees, including the
 
 1. Curve of rating by years of marriage
 
-![Image Caption](images/rating by yearsmarried.png)
+![Image Caption](images/rating_by_yearsmarried.png)
 
 
 
 2.Data frame gender percentage
 
-![Image Caption](images/gender percentage.png)
+![Image Caption](images/gender_percentage.png)
 
 
 3. Data frame is has children percentage
 
-![Image Caption](images/has children.png)
+![Image Caption](images/has_children.png)
 
 
 
 4.Statistical rating table by years of marriage
 
-![Image Caption](images/ratinf by years married.png)
+![Image Caption](images/ratinf_by_years_married.png)
 
 
 
 5.Curve of affairs by age   
 
-![Image Caption](images/affaires by age.png)
+![Image Caption](images/affaires_by_age.png)
 
 
 
