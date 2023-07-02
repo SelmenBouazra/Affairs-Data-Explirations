@@ -80,7 +80,7 @@ the affairs dataset contains detailed information about employees, including the
 
 For more : 
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Raouajb/Olympics-Data-Explorations/master?labpath=Olymdpics.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SelmenBouazra/Affairs-Data-Explirations/main?labpath=SelmenBouazraMiniProjectPython%20(1).ipynb)
 
 [![Launch Binder](https://colab.research.google.com/img/colab_favicon_256px.png)](https://colab.research.google.com/github/SelmenBouazra/Affairs-Data-Explirations/blob/main/SelmenBouazraMiniProjectPython%20(1).ipynb)
 
