@@ -2,6 +2,13 @@
 
 ![Image Caption](images/affaires.jpg)
 
+## Table of Contents
+
+- [Dataset](#Dataset)
+- [Overview](#Overview)
+- [Data Dictionary](#Data-Dictionary)
+- [Visualize](#Visualize)
+
 
 # Dataset :
 
